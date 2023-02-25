@@ -3,7 +3,6 @@ title: Home
 layout: default
 ---
 
-
 My Markdown practice<!--omit in toc-->
 ===  
 
